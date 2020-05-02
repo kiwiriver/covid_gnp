@@ -1,0 +1,7 @@
+** python env 3.7
+conda remove --name rt --all
+conda create -n rt python=3.7
+conda install -c conda-forge pymiescatt 
+
+** install pymiescatt
+pymiescatt                1.7.5.4                    py_0    conda-forge
