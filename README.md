@@ -16,8 +16,7 @@ Interactive notebook
 
 | Topics | Colab Link |
 | :--- | ---: |
-| **Scattering of single sphere using Mie code** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t01_\
-mie.ipynb)|
+| **Scattering of single sphere using Mie code** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t01_mie.ipynb)|
 | **Scattering of single sphere using MSTM code** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t02_mstm.ipynb)|
 
 
