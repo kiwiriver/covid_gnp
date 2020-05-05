@@ -11,9 +11,13 @@ A few questions	will be	answered:
 - How the polarization impact the scattering?
 
 <H2 style="color:blue">
-Play in Google Colab:
+Interactive notebook
 </H2>
 
-- <a href="https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t01_mie.ipynb">Compute scattering properties of gold nanoparticle using Mie code </a>
-- <a href="https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t02_mstm.ipynb">Verify the Mie scattering using MSTM </a>
+| Topics | Colab Link |
+| :--- | ---: |
+| **Scattering of single sphere using Mie code** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t01_\
+mie.ipynb)|
+| **Scattering of single sphere using MSTM code** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t02_mstm.ipynb)|
+
 
