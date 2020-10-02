@@ -16,8 +16,7 @@ Interactive notebook
 
 | Topics | Colab Link |
 | :--- | ---: |
-| **Antigen and Antibody Tests for COVID-19** |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://\
-colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t00_Covid-19_Detection.ipynb)|
+| **Antigen and Antibody Tests for COVID-19** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t00_Covid-19_Detection.ipynb)|
 | **Scattering properties of GNP** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t01_mie.ipynb)|
 | **Mueller matrix of GNP** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t01_mie2_mueller.ipynb)|
 | **Scattering of single sphere using MSTM code** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwiriver/scatt_nanoparticle/blob/master/notebook/t02_mstm.ipynb)|
