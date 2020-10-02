@@ -1,5 +1,5 @@
 <H1 style="color: blue">
-Scattering properties of gold nanoparticles
+Scattering properties of gold nanoparticles for COVID-19 antibody test
 </H1>
 
 <H2 style="color:blue">
@@ -9,6 +9,7 @@ A few questions	will be	answered:
 - How the nanoparticle scattering properties change with size and light wavelength?
 - How the cluster of nanoparticles influce its scattering properties?
 - How the polarization impact the scattering?
+- Can the color spectrum help the detection of COVID-19 antibody
 
 <H2 style="color:blue">
 Interactive notebook
